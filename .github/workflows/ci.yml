@@ -1,7 +1,11 @@
 name: CI
 
 # TODO (Passo 1): configurar o trigger — push e pull_request para main
-on: {}
+on: 
+    push:
+        branches: [main]
+    pull_request:
+        branches: [main]
 
 jobs:
   ci:
@@ -14,6 +18,20 @@ jobs:
         with:
           dotnet-version: "8.0.x"
 
+      - name: Restore
+        run: dotnet Restore
+      
+      - name : build
+        run: dotnet build --configuration Release --no-restore
+        
+      - name: Teste
+        run: dotnet test --configuration Release --no-build --verbosity normal
+        env:
+
+            Jwt__Key: ${{ secrets.JWT.KEY }}
+            Jwt__Issuer: helpdesk-lite
+            Jwt__Audience: helpdesk-lite
+            
       # TODO (Passo 1): adicionar step de restore
       # Dica: dotnet restore
 
