@@ -1,0 +1,22 @@
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\bin\Debug\net8.0\Helpdesk.Domain.deps.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\bin\Debug\net8.0\Helpdesk.Domain.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\bin\Debug\net8.0\Helpdesk.Domain.pdb
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.AssemblyInfo.cs
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\refint\Helpdesk.Domain.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.pdb
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Domain\obj\Debug\net8.0\ref\Helpdesk.Domain.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\bin\Debug\net8.0\Helpdesk.Domain.deps.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\bin\Debug\net8.0\Helpdesk.Domain.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\bin\Debug\net8.0\Helpdesk.Domain.pdb
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.AssemblyInfoInputs.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.AssemblyInfo.cs
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\refint\Helpdesk.Domain.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\Helpdesk.Domain.pdb
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Domain\obj\Debug\net8.0\ref\Helpdesk.Domain.dll

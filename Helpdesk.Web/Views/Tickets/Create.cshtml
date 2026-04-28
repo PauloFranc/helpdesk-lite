@@ -1,0 +1,52 @@
+@model Helpdesk.Web.Models.CreateTicketVm
+@{
+    ViewData["Title"] = "Novo Ticket";
+}
+
+<div class="page-header">
+    <h1>Novo Ticket</h1>
+    <a class="btn btn-ghost" asp-action="Index">Voltar</a>
+</div>
+
+<div class="card">
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div asp-validation-summary="All" class="validation-summary-errors" role="alert"></div>
+    }
+
+    <form asp-action="Create" method="post">
+        <div class="form-grid">
+            <div class="form-group">
+                <label asp-for="Title">Titulo</label>
+                <input asp-for="Title" placeholder="Descreve brevemente o problema…" />
+                <span asp-validation-for="Title" class="field-validation-error"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description">Descricao</label>
+                <textarea asp-for="Description" placeholder="Detalha o problema, passos para reproduzir, impacto…"></textarea>
+                <span asp-validation-for="Description" class="field-validation-error"></span>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label asp-for="Priority">Prioridade</label>
+                    <input asp-for="Priority" placeholder="1 Baixa · 2 Média · 3 Alta (opcional)" />
+                    <span class="form-hint">Deixa em branco para prioridade automática</span>
+                    <span asp-validation-for="Priority" class="field-validation-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CreatedBy">Criado por</label>
+                    <input asp-for="CreatedBy" placeholder="email@exemplo.com" />
+                    <span asp-validation-for="CreatedBy" class="field-validation-error"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-actions">
+            <a class="btn btn-ghost" asp-action="Index">Cancelar</a>
+            <button type="submit" class="btn btn-primary">Criar</button>
+        </div>
+    </form>
+</div>

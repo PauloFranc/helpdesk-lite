@@ -1,0 +1,30 @@
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Application.deps.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Application.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Application.pdb
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Domain.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Domain.pdb
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.AssemblyInfo.cs
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.69E353D1.Up2Date
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\refint\Helpdesk.Application.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.pdb
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Application\obj\Debug\net8.0\ref\Helpdesk.Application.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Application.deps.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Application.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Application.pdb
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Domain.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\bin\Debug\net8.0\Helpdesk.Domain.pdb
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.csproj.AssemblyReference.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.AssemblyInfoInputs.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.AssemblyInfo.cs
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.csproj.CoreCompileInputs.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.69E353D1.Up2Date
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\refint\Helpdesk.Application.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\Helpdesk.Application.pdb
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Application\obj\Debug\net8.0\ref\Helpdesk.Application.dll

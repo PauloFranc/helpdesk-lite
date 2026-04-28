@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <AssemblyName>Helpdesk.Web</AssemblyName>
+    <RootNamespace>Helpdesk.Web</RootNamespace>
+  </PropertyGroup>
+</Project>
+

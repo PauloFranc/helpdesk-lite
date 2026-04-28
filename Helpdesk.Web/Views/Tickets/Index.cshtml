@@ -1,0 +1,75 @@
+@model IReadOnlyList<Helpdesk.Web.Models.TicketListItemDto>
+@{
+    ViewData["Title"] = "Tickets";
+}
+
+@functions {
+    static string StatusClass(string s) => s.ToLower() switch {
+        "open"       => "badge badge-open",
+        "inprogress" => "badge badge-inprogress",
+        "resolved"   => "badge badge-resolved",
+        "closed"     => "badge badge-closed",
+        _            => "badge badge-closed"
+    };
+    static string StatusLabel(string s) => s switch {
+        "Open"       => "Aberto",
+        "InProgress" => "Em progresso",
+        "Resolved"   => "Resolvido",
+        "Closed"     => "Fechado",
+        _            => s
+    };
+    static string PriorityClass(int p) => p switch {
+        1 => "badge badge-low",
+        2 => "badge badge-medium",
+        3 => "badge badge-high",
+        _ => "badge badge-critical"
+    };
+    static string PriorityLabel(int p) => p switch {
+        1 => "Baixa",
+        2 => "Média",
+        3 => "Alta",
+        _ => "Crítica"
+    };
+}
+
+<div class="page-header">
+    <h1>Tickets</h1>
+    <a class="btn btn-primary" asp-action="Create">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+            <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
+        </svg>
+        Novo ticket
+    </a>
+</div>
+
+<div class="card">
+    <div class="table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Título</th>
+                    <th>Estado</th>
+                    <th>Prioridade</th>
+                    <th>Criado em</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            @if (!Model.Any())
+            {
+                <tr><td colspan="5" class="table-empty">Nenhum ticket encontrado.</td></tr>
+            }
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="title">@item.Title</td>
+                    <td><span class="@StatusClass(item.Status)">@StatusLabel(item.Status)</span></td>
+                    <td><span class="@PriorityClass(item.Priority)">@PriorityLabel(item.Priority)</span></td>
+                    <td class="date">@item.CreatedAtUtc.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td><a class="btn btn-ghost" asp-action="Details" asp-route-id="@item.Id">Ver</a></td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>

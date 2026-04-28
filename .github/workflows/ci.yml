@@ -1,0 +1,25 @@
+name: CI
+
+# TODO (Passo 1): configurar o trigger — push e pull_request para main
+on: {}
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      # TODO (Passo 1): adicionar step de restore
+      # Dica: dotnet restore
+
+      # TODO (Passo 1): adicionar step de build com Release e --no-restore
+      # Dica: dotnet build --configuration Release --no-restore
+
+      # TODO (Passo 1): adicionar step de test com Release e --no-build
+      # Dica: dotnet test --configuration Release --no-build --verbosity normal
+      # TODO (Passo 2): injectar Jwt__Key, Jwt__Issuer, Jwt__Audience via env com secrets

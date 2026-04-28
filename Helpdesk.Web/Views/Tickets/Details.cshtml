@@ -1,0 +1,107 @@
+@model Helpdesk.Web.Models.TicketDetailsDto
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+@functions {
+    static string StatusClass(string s) => s.ToLower() switch {
+        "open"       => "badge badge-open",
+        "inprogress" => "badge badge-inprogress",
+        "resolved"   => "badge badge-resolved",
+        "closed"     => "badge badge-closed",
+        _            => "badge badge-closed"
+    };
+    static string StatusLabel(string s) => s switch {
+        "Open"       => "Aberto",
+        "InProgress" => "Em progresso",
+        "Resolved"   => "Resolvido",
+        "Closed"     => "Fechado",
+        _            => s
+    };
+    static string PriorityClass(int p) => p switch {
+        1 => "badge badge-low",
+        2 => "badge badge-medium",
+        3 => "badge badge-high",
+        _ => "badge badge-critical"
+    };
+    static string PriorityLabel(int p) => p switch {
+        1 => "Baixa",
+        2 => "Média",
+        3 => "Alta",
+        _ => "Crítica"
+    };
+}
+
+<div class="page-header">
+    <h1>@Model.Title</h1>
+    <a class="btn btn-ghost" asp-action="Index">Voltar</a>
+</div>
+
+<div class="card">
+    <div class="detail-grid">
+        <div class="detail-field">
+            <label>Estado</label>
+            <div class="value"><span class="@StatusClass(Model.Status)">@StatusLabel(Model.Status)</span></div>
+        </div>
+        <div class="detail-field">
+            <label>Prioridade</label>
+            <div class="value"><span class="@PriorityClass(Model.Priority)">@PriorityLabel(Model.Priority)</span></div>
+        </div>
+        <div class="detail-field">
+            <label>Criado por</label>
+            <div class="value">@Model.CreatedBy</div>
+        </div>
+        <div class="detail-field">
+            <label>Criado em</label>
+            <div class="value">@Model.CreatedAtUtc.ToString("dd/MM/yyyy HH:mm")</div>
+        </div>
+    </div>
+
+    @if (!string.IsNullOrWhiteSpace(Model.Description))
+    {
+        <div class="detail-description">
+            <label>Descrição</label>
+            <p>@Model.Description</p>
+        </div>
+    }
+
+    @if (Model.StatusChanges.Any())
+    {
+        <div style="margin-bottom:1.75rem; padding-bottom:1.75rem; border-bottom:1px solid var(--border)">
+            <div class="section-title">Histórico de estados</div>
+            <ul class="timeline">
+            @foreach (var sc in Model.StatusChanges)
+            {
+                <li class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div>
+                        <span>@sc.From → @sc.To</span>
+                        <div class="timeline-meta">@sc.ChangedBy · @sc.ChangedAtUtc.ToString("dd/MM/yyyy HH:mm")</div>
+                    </div>
+                </li>
+            }
+            </ul>
+        </div>
+    }
+
+    <div class="section-title">Comentários</div>
+    @if (!Model.Comments.Any())
+    {
+        <p class="empty-state">Sem comentários.</p>
+    }
+    else
+    {
+        <div class="comment-list">
+        @foreach (var comment in Model.Comments)
+        {
+            <div class="comment-item">
+                <div class="comment-header">
+                    <span class="comment-author">@comment.Author</span>
+                    <span class="comment-date">@comment.CreatedAtUtc.ToString("dd/MM/yyyy HH:mm")</span>
+                </div>
+                <div>@comment.Message</div>
+            </div>
+        }
+        </div>
+    }
+</div>

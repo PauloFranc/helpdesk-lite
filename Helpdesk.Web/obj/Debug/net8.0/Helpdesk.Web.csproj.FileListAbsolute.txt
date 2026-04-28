@@ -1,0 +1,58 @@
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.staticwebassets.runtime.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.staticwebassets.endpoints.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.exe
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.deps.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.runtimeconfig.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.pdb
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.AssemblyInfo.cs
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.RazorAssemblyInfo.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.RazorAssemblyInfo.cs
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\scopedcss\bundle\Helpdesk.Web.styles.css
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\refint\Helpdesk.Web.dll
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.pdb
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.genruntimeconfig.cache
+C:\Users\chris\Desktop\Formação\ManualPreparation\Session 17V2\starter\Helpdesk.Web\obj\Debug\net8.0\ref\Helpdesk.Web.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.staticwebassets.runtime.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.staticwebassets.endpoints.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.exe
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.deps.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.runtimeconfig.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\bin\Debug\net8.0\Helpdesk.Web.pdb
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.AssemblyInfoInputs.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.AssemblyInfo.cs
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.csproj.CoreCompileInputs.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.RazorAssemblyInfo.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.RazorAssemblyInfo.cs
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\scopedcss\bundle\Helpdesk.Web.styles.css
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\refint\Helpdesk.Web.dll
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.pdb
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\Helpdesk.Web.genruntimeconfig.cache
+C:\Users\PJFrancisco\Documents\Formação C#\Session 17\starter\Helpdesk.Web\obj\Debug\net8.0\ref\Helpdesk.Web.dll

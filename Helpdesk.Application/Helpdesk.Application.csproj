@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Helpdesk.Application</AssemblyName>
+    <RootNamespace>Helpdesk.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\\Helpdesk.Domain\\Helpdesk.Domain.csproj" />
+  </ItemGroup>
+</Project>
+

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Helpdesk.Console</AssemblyName>
+    <RootNamespace>Helpdesk.ConsoleApp</RootNamespace>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\\Helpdesk.Application\\Helpdesk.Application.csproj" />
+    <ProjectReference Include="..\\Helpdesk.Infrastructure\\Helpdesk.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

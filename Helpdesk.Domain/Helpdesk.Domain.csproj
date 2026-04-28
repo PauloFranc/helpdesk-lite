@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Helpdesk.Domain</AssemblyName>
+    <RootNamespace>Helpdesk.Domain</RootNamespace>
+  </PropertyGroup>
+</Project>
+
